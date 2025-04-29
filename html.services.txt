@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Services - Radiant Touch</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Radiant Touch</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="booking.html">Book Appointment</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Our Services</h1>
+    <ul>
+      <li>Facials – ₹1200</li>
+      <li>Hair Styling – ₹800</li>
+      <li>Hair Color – ₹1500</li>
+      <li>Bridal Makeup – ₹5000</li>
+      <li>Waxing – ₹500</li>
+      <li>Manicure & Pedicure – ₹1000</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Radiant Touch Beauty Parlour</p>
+  </footer>
+</body>
+</html>
